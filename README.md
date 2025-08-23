@@ -1,4 +1,4 @@
-<img align="right" src=".github/assets/Nazuna_Nanakusa_Call_of_the_Night_Yofukashi_no_Uta-2181429-3715795970.jpg" width="30%">
+<img align="right" src="Nazuna_Nanakusa_Call_of_the_Night_Yofukashi_no_Uta-2181429-3715795970.jpg" width="30%">
 ## silly guy on the internet
 
 <details>
