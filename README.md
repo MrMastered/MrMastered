@@ -9,6 +9,6 @@
   (https://wikipedia.org/wiki/HTML)
   [![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css&logoColor=white)]
   (https://wikipedia.org/wiki/CSS)
-<details/>
+<details>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMastered)](https://github.com/anuraghazra/github-readme-stats)
